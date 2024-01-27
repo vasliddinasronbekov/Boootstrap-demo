@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 17vh;
+    /* background-color: red; */
+
+
+}
+
+.header img {
+    width: 100px;
+    height: 100px;
+    /* background-color: red; */
+}
+
+h1 {
+   
+}
+
+#carouselExampleIndicators {
+    /* border-radius: 10px; */
+}
+
+.slides {
+    width: 100%;
+    height: 63vh;
+}
+
+.myclass {
+    height: 70vh;
+}
+
+.myclass img {
+    height: 70vh;
+}
